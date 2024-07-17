@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/vishal-kashyap-59a281224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-sen-7b811a24b" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 </p>
-#
+
 # Bio
 
  I have done bachelor's in Computer Application. I am dedicated to work in IT sector and will serve my organization responsibly. I am always ready to learn new technologies and stay up to date.
