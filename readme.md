@@ -46,7 +46,13 @@
 
 <br />
 
+
+
+# :bar_chart: GitHub Stats:
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-Kashap&theme=whatsapp-dark2&border_radius=15&border=2044EB)](https://git.io/streak-stats) 
+ 
 [![](https://visitcount.itsvg.in/api?id=Vishal-Kashap&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-Kashap&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Kashap&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
