@@ -2,11 +2,6 @@
 <h3 align="center">I am a passionate DevOps Trainee at TechoClouds Ludhiana </h3>
 
 
-
-![logo](https://github.com/Vishal-Kashap/Profile/blob/main/Background_img.jpeg)
-
-
-
 <h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/vishal-kashyap-59a281224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-sen-7b811a24b" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 </p>
@@ -51,6 +46,7 @@
 
 <br />
 
+[![](https://visitcount.itsvg.in/api?id=Vishal-Kashap&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 
 
